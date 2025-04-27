@@ -14,6 +14,15 @@
 
 ---
 
+## [auth-api](https://github.com/steem-idp-project/auth-api)
+
+### Added
+
+- Added `login`, `register`, `logout`, `validate` endpoints (Gabi)
+- Created Dockerfile for Auth service (Gabi)
+
+---
+
 ### [platform-infra](https://github.com/steem-idp-project/platform-infra)
 
 ### Added
