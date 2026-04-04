@@ -1,7 +1,3 @@
-# Milestone #1
-
----
-
 ## [io-api](https://github.com/steem-idp-project/io-api)
 
 ### Added
