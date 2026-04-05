@@ -11,7 +11,7 @@
 
 Steem is an online game shopping platform meant to provide publishers/developers a
 space where they can showcase and sell their games. At the same time, it serves as a
-game library, allowing users to purchase, wishlist and even return games. Anyone can
+game library, allowing users to purchase, play, and even return games. Anyone can
 browse through the catalogue of games available on the platform and check out what
 piques their interest.
 
@@ -29,7 +29,6 @@ piques their interest.
 - can check their account balance
 - can see their own personal library
 - can buy games with money
-- can wishlist/un-wishlist games
 - can return games within a 48 hours time frame from the time of purchase,
 given that the user has played the game at most for 2 hours
 - can play a game
